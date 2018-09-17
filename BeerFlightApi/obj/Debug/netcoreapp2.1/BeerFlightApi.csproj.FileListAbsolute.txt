@@ -1,0 +1,14 @@
+C:\Users\Zachary.Brooks\Source\repos\BeerFlightApi\BeerFlightApi\bin\Debug\netcoreapp2.1\BeerFlightApi.deps.json
+C:\Users\Zachary.Brooks\Source\repos\BeerFlightApi\BeerFlightApi\bin\Debug\netcoreapp2.1\BeerFlightApi.runtimeconfig.json
+C:\Users\Zachary.Brooks\Source\repos\BeerFlightApi\BeerFlightApi\bin\Debug\netcoreapp2.1\BeerFlightApi.runtimeconfig.dev.json
+C:\Users\Zachary.Brooks\Source\repos\BeerFlightApi\BeerFlightApi\bin\Debug\netcoreapp2.1\BeerFlightApi.dll
+C:\Users\Zachary.Brooks\Source\repos\BeerFlightApi\BeerFlightApi\obj\Debug\netcoreapp2.1\BeerFlightApi.csprojAssemblyReference.cache
+C:\Users\Zachary.Brooks\Source\repos\BeerFlightApi\BeerFlightApi\obj\Debug\netcoreapp2.1\BeerFlightApi.csproj.CoreCompileInputs.cache
+C:\Users\Zachary.Brooks\Source\repos\BeerFlightApi\BeerFlightApi\obj\Debug\netcoreapp2.1\BeerFlightApi.RazorAssemblyInfo.cache
+C:\Users\Zachary.Brooks\Source\repos\BeerFlightApi\BeerFlightApi\obj\Debug\netcoreapp2.1\BeerFlightApi.RazorAssemblyInfo.cs
+C:\Users\Zachary.Brooks\Source\repos\BeerFlightApi\BeerFlightApi\obj\Debug\netcoreapp2.1\BeerFlightApi.AssemblyInfoInputs.cache
+C:\Users\Zachary.Brooks\Source\repos\BeerFlightApi\BeerFlightApi\obj\Debug\netcoreapp2.1\BeerFlightApi.AssemblyInfo.cs
+C:\Users\Zachary.Brooks\Source\repos\BeerFlightApi\BeerFlightApi\obj\Debug\netcoreapp2.1\BeerFlightApi.RazorTargetAssemblyInfo.cache
+C:\Users\Zachary.Brooks\Source\repos\BeerFlightApi\BeerFlightApi\bin\Debug\netcoreapp2.1\BeerFlightApi.pdb
+C:\Users\Zachary.Brooks\Source\repos\BeerFlightApi\BeerFlightApi\obj\Debug\netcoreapp2.1\BeerFlightApi.dll
+C:\Users\Zachary.Brooks\Source\repos\BeerFlightApi\BeerFlightApi\obj\Debug\netcoreapp2.1\BeerFlightApi.pdb
